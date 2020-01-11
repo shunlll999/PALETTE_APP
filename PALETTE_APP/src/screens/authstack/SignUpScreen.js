@@ -114,7 +114,7 @@ class SignUpScreen extends Component {
                         </View>
                         <View style={{ width: 170 }}>
                             <Button
-                                title='สมัครสมาชิค'
+                                title='สมัครสมาชิค' //--> คงจะเป็น hipster นะครับ lovely ( มันควรจะสะกดด้วย `ก` รึเปล่าครับ `สมัครสมาชิค` -> `สมัครสมาชิก` )
                                 type='solid'
                                 titleStyle={{ color: 'white' }}
                                 buttonStyle={{ backgroundColor: '#E13C3F', }}
